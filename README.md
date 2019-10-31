@@ -34,7 +34,7 @@ Use the following command to set up the stable repository
 
 Install the latest version of Docker CE,
 ```
-❯ sudo yum install docker-ce
+❯ sudo yum -y install docker-ce
 ```
 
 Start docker
